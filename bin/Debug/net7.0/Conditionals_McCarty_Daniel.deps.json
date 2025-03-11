@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Conditionals_McCarty_Daniel/1.0.0": {
+        "runtime": {
+          "Conditionals_McCarty_Daniel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conditionals_McCarty_Daniel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
